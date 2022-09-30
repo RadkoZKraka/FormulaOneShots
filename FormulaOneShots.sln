@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormulaOneShots", "FormulaOneShots\FormulaOneShots.csproj", "{01CE4416-A33E-4336-8F5B-B873FFE5DA4D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoogleSheetConnection", "GoogleSheetConnection\GoogleSheetConnection.csproj", "{678B483D-CF44-49D5-BEB1-89A2CD764757}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcelConnection", "ExcelConnection\ExcelConnection.csproj", "{8339783A-7F39-477E-96B3-52001859A615}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01CE4416-A33E-4336-8F5B-B873FFE5DA4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01CE4416-A33E-4336-8F5B-B873FFE5DA4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01CE4416-A33E-4336-8F5B-B873FFE5DA4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01CE4416-A33E-4336-8F5B-B873FFE5DA4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{678B483D-CF44-49D5-BEB1-89A2CD764757}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{678B483D-CF44-49D5-BEB1-89A2CD764757}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{678B483D-CF44-49D5-BEB1-89A2CD764757}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{678B483D-CF44-49D5-BEB1-89A2CD764757}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8339783A-7F39-477E-96B3-52001859A615}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8339783A-7F39-477E-96B3-52001859A615}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8339783A-7F39-477E-96B3-52001859A615}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8339783A-7F39-477E-96B3-52001859A615}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
