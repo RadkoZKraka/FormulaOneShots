@@ -12,6 +12,7 @@
     </ItemGroup>
 
     <ItemGroup>
+        <PackageReference Include="EPPlus" Version="6.0.8" />
         <PackageReference Include="ExcelDataReader" Version="3.6.0" />
         <PackageReference Include="Google.Apis" Version="1.57.0" />
         <PackageReference Include="Google.Apis.Auth" Version="1.57.0" />
@@ -29,10 +30,6 @@
         <PackageReference Include="Microsoft.Office.Interop.Excel" Version="15.0.4795.1001" />
         <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="6.0.10" />
         <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
-    </ItemGroup>
-
-    <ItemGroup>
-      <Folder Include="Lib" />
     </ItemGroup>
 
 </Project>
